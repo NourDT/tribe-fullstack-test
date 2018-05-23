@@ -29,7 +29,6 @@ There's a folder in this repo that contains wireframe for a simple listing page.
 - Frontend oriented
     - Use ([React](https://reactjs.org/) to build the front-end
     - Layout has to be responsive 
-    - Don't use any CSS Frameworks
     - Use a scaffolding tool such as `create-react-app`
         - Feel free to use any JS frameworks such as React-Router, and packing tools such as Webpack or Parcel etc.
 
