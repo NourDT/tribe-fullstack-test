@@ -27,7 +27,11 @@ There's a folder in this repo that contains wireframe for a simple listing page.
     - Use any **language** you like.
     - Use any any storage system for this task, even a static JSON file storage would do it.
 - Frontend oriented
-    - Use any JS framework that you are comfortable with ([React](https://reactjs.org/) or [Angular](https://angularjs.org/))
+    - Use ([React](https://reactjs.org/) to build the front-end
+    - Layout has to be responsive 
+    - Don't use any CSS Frameworks
+    - Use a scaffolding tool such as `create-react-app`
+        - Feel free to use any JS frameworks such as React-Router, and packing tools such as Webpack or Parcel etc.
 
 ### Bonus
 
@@ -45,10 +49,9 @@ These are used for some further challenges. You can **safely skip them if you ar
     - Provide a complete logging (when/how/etc) strategy.
     - Use a NoSQL DB and build a filter feature that can filter records with some of the attributes 
 - **Frontend**:
-    - Do not use any scaffolding tool such as `create-react-app`, or any CSS framework, 
-        - but try to use some JS frameworks such as React-Router, and packing tools such as Webpack or Parcel etc.
     - Provide an error handling strategy, such as the UI/UX, and different handling for different errors etc.
-    - Make it responsive.
+
+
 
 ## What We Care About
 
